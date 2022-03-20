@@ -5,4 +5,4 @@ import App from "./components/app"
 const app = <App />
 const root = document.querySelector("#root")
 
-render(app, here)
+render(app, root)
