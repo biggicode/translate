@@ -1,3 +1,3 @@
-import LanguageSelector from "./language-selector"
+import LanguageSelector from "./language-selector.component"
 
 export default LanguageSelector
